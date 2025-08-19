@@ -1,6 +1,6 @@
 {
- "name":"INTREPTER",
- "short_name":"INTREPTER",
+ "name":"INTERPRTER",
+ "short_name":"INTERPRTER",
  "display":"fullscreen",
  "start_url":"./python.html",
  "background_color":"#000000",
