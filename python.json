@@ -1,6 +1,6 @@
 {
- "name":"INTERPRTER",
- "short_name":"INTERPRTER",
+ "name":"INTERPRETER",
+ "short_name":"INTERPRETER",
  "display":"fullscreen",
  "start_url":"./python.html",
  "background_color":"#000000",
